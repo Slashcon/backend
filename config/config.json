@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "slashcon_app",
+    "password": "app_secure_pass_2024",
+    "database": "slashcon",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 3306,
+    "logging": true
+  },
+  "production": {
+    "username": "slashcon_app",
+    "password": "app_secure_pass_2024",
+    "database": "slashcon",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port": 3306,
+    "logging": false
+  }
+}
